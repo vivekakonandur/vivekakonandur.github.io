@@ -14,4 +14,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
-Viveka Konandur Rajanna and M. Alioto “Low-Swing Links with Dynamic Energy-Quality Trade-off for Error-Resilient Applications”, 2019 IEEE Custom Integrated Circuits Conference (CICC), pp. 1-4
+**Viveka Konandur Rajanna** and M. Alioto '“[Low-Swing Links with Dynamic Energy-Quality Trade-off for Error-Resilient Applications](https://ieeexplore.ieee.org/abstract/document/8780323)”', 2019 IEEE Custom Integrated Circuits Conference (CICC), pp. 1-4
