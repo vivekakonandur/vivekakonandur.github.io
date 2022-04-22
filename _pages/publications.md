@@ -23,13 +23,13 @@ S. Taneja, **Viveka Konandur Rajanna** and M. Alioto "[Unified In-Memory Dynamic
 Conference
 -----------
 
-A. Gupta, **Viveka Konandur Rajanna***, T. Singh, S. Jain, O. Aiello, P. Crovetti and M. Alioto "[DDPMnet: All-Digital Pulse Density-Based DNN Architecture with 228 Gate Equivalents/MAC Unit, 28-TOPS/W and 1.5-TOPS/mm\textsuperscript{2} in 40nm]()", 2022 IEEE Custom Integrated Circuits Conference (CICC)}, (accepted). ***CICC'22***
+A. Gupta, **Viveka Konandur Rajanna***, T. Singh, S. Jain, O. Aiello, P. Crovetti and M. Alioto "[DDPMnet: All-Digital Pulse Density-Based DNN Architecture with 228 Gate Equivalents/MAC Unit, 28-TOPS/W and 1.5-TOPS/mm\textsuperscript{2} in 40nm]()", _2022 IEEE Custom Integrated Circuits Conference (CICC)_, (accepted). ***CICC'22***
 
-**Viveka Konandur Rajanna**, S. Taneja and M. Alioto "[A 109TOPS/mm\textsuperscript{2} and 749-1,459TOPS/W SRAM Buffer with In-Memory Inference and Prediction-Less Bitline Activity Reduction in 28nm]()", ESSCIRC 2021 - IEEE 47th European Solid State Circuits Conference (ESSCIRC), (accepted, in press).} ***ESSCIRC'21***
+**Viveka Konandur Rajanna**, S. Taneja and M. Alioto "[A 109TOPS/mm\textsuperscript{2} and 749-1,459TOPS/W SRAM Buffer with In-Memory Inference and Prediction-Less Bitline Activity Reduction in 28nm]()", ESSCIRC 2021 - _IEEE 47th European Solid State Circuits Conference (ESSCIRC)_, (accepted, in press). ***ESSCIRC'21***
 
-P. Agarwal*, **Viveka Konandur Rajanna***, T. W. Da, B. C. K. Tee and M. Alioto "[Fully-Digital Self-Calibrating Decoder with Sub-ÂµW, 1.6fJ/convstep and 0.0075mm\textsuperscript{2} per Receptor for Scaling to Human-Like Tactile Sensing Density](https://ieeexplore.ieee.org/abstract/document/9492329), 2021 Symposium on VLSI Circuits, pp. 1-2. ***VLSI'21***
+P. Agarwal*, **Viveka Konandur Rajanna***, T. W. Da, B. C. K. Tee and M. Alioto "[Fully-Digital Self-Calibrating Decoder with Sub-ÂµW, 1.6fJ/convstep and 0.0075mm\textsuperscript{2} per Receptor for Scaling to Human-Like Tactile Sensing Density](https://ieeexplore.ieee.org/abstract/document/9492329), _2021 Symposium on VLSI Circuits_, pp. 1-2. ***VLSI'21***
 
-S. Taneja, **Viveka Konandur Rajanna** and M. Alioto "[36.1 Unified In-Memory Dynamic TRNG and Multi-Bit Static PUF Entropy Generation for Ubiquitous Hardware Security](https://ieeexplore.ieee.org/abstract/document/9366019),_ 2021 IEEE International Solid- State Circuits Conference (ISSCC)_, pp. 498-500. ***ISSCC'21***
+S. Taneja, **Viveka Konandur Rajanna** and M. Alioto "[36.1 Unified In-Memory Dynamic TRNG and Multi-Bit Static PUF Entropy Generation for Ubiquitous Hardware Security](https://ieeexplore.ieee.org/abstract/document/9366019), _2021 IEEE International Solid- State Circuits Conference (ISSCC)_, pp. 498-500. ***ISSCC'21***
 
 **Viveka Konandur Rajanna** and M. Alioto “[Low-Swing Links with Dynamic Energy-Quality Trade-off for Error-Resilient Applications](https://ieeexplore.ieee.org/abstract/document/8780323)”, _2019 IEEE Custom Integrated Circuits Conference (CICC)_, pp. 1-4. ***CICC'19***
 
@@ -37,11 +37,11 @@ S. Taneja, **Viveka Konandur Rajanna** and M. Alioto "[36.1 Unified In-Memory Dy
 
 **K.R.Viveka** and Bharadwaj Amrutur "[Energy Efficient Memory Decoder Design for Ultra-low Voltage Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6733121)", _Proceedings of the IEEE VLSI Design 2014 conference_, pp. 145-149, Jan 2014. ***VLSID'14***
 
-**K.R.Viveka** and Bharadwaj Amrutur â€œ\href{http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6643593}{Digitally controlled variation tolerant timing generation technique for SRAM sense amplifiers}â€, \emph{Proceedings of the IEEE Asia Symposium on Quality Electronic Design (ASQED)}, 2013, pp. 233 - 239, Aug 2013.}***ASQED'13***
+**K.R.Viveka** and Bharadwaj Amrutur "[Digitally controlled variation tolerant timing generation technique for SRAM sense amplifiers](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6643593)", _Proceedings of the IEEE Asia Symposium on Quality Electronic Design (ASQED)_, 2013, pp. 233 - 239, Aug 2013.***ASQED'13***
 
-**K.R.Viveka**, Abhilasha Kawle and Bharadwaj Amrutur â€œ\href{http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4092114}{Low Power Pipelined TCAM Employing Mismatch Dependent Power Allocation Technique}â€, \emph{Proceedings of the IEEE VLSI Design 2007 conference}, pp. 638-643, Jan 2007.} ***VLSID'07***
+**K.R.Viveka**, Abhilasha Kawle and Bharadwaj Amrutur "[Low Power Pipelined TCAM Employing Mismatch Dependent Power Allocation Technique](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4092114), _Proceedings of the IEEE VLSI Design 2007 conference_, pp. 638-643, Jan 2007. ***VLSID'07***
 
-**K.R.Viveka**, Ramgopal S, Praveen N, Rajanna K and Nayak M.M "\href{http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4178886}{Pressure Sensor Based Tsunami Detection System: A Laboratory Study}", \emph{Proceedings of IEEE sensors 2006 conference}, pp. 1392-1394, Oct. 2006.} ***SENSORS'06***
+**K.R.Viveka**, Ramgopal S, Praveen N, Rajanna K and Nayak M.M "[Pressure Sensor Based Tsunami Detection System: A Laboratory Study](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4178886)", _Proceedings of IEEE sensors 2006 conference_, pp. 1392-1394, Oct. 2006. ***SENSORS'06***
 
 \* equal contribution
 
