@@ -35,15 +35,15 @@ Conference
 
 * **Viveka Konandur Rajanna** and M. Alioto “[Low-Swing Links with Dynamic Energy-Quality Trade-off for Error-Resilient Applications](https://ieeexplore.ieee.org/abstract/document/8780323)”, _2019 IEEE Custom Integrated Circuits Conference (CICC)_, pp. 1-4. ***CICC'19***
 
-**Viveka Konandur Rajanna** and Bharadwaj Amrutur, "[Presentation at the 2015 ISSCC Student Research Preview session](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7063148).***ISSCC'15, SRP***
+* **Viveka Konandur Rajanna** and Bharadwaj Amrutur, "[Presentation at the 2015 ISSCC Student Research Preview session](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7063148).***ISSCC'15, SRP***
 
-**K.R.Viveka** and Bharadwaj Amrutur "[Energy Efficient Memory Decoder Design for Ultra-low Voltage Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6733121)", _Proceedings of the IEEE VLSI Design 2014 conference_, pp. 145-149, Jan 2014. ***VLSID'14***
+* **K.R.Viveka** and Bharadwaj Amrutur "[Energy Efficient Memory Decoder Design for Ultra-low Voltage Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6733121)", _Proceedings of the IEEE VLSI Design 2014 conference_, pp. 145-149, Jan 2014. ***VLSID'14***
 
-**K.R.Viveka** and Bharadwaj Amrutur "[Digitally controlled variation tolerant timing generation technique for SRAM sense amplifiers](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6643593)", _Proceedings of the IEEE Asia Symposium on Quality Electronic Design (ASQED)_, 2013, pp. 233 - 239, Aug 2013.***ASQED'13***
+* **K.R.Viveka** and Bharadwaj Amrutur "[Digitally controlled variation tolerant timing generation technique for SRAM sense amplifiers](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6643593)", _Proceedings of the IEEE Asia Symposium on Quality Electronic Design (ASQED)_, 2013, pp. 233 - 239, Aug 2013.***ASQED'13***
 
-**K.R.Viveka**, Abhilasha Kawle and Bharadwaj Amrutur "[Low Power Pipelined TCAM Employing Mismatch Dependent Power Allocation Technique](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4092114), _Proceedings of the IEEE VLSI Design 2007 conference_, pp. 638-643, Jan 2007. ***VLSID'07***
+* **K.R.Viveka**, Abhilasha Kawle and Bharadwaj Amrutur "[Low Power Pipelined TCAM Employing Mismatch Dependent Power Allocation Technique](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4092114), _Proceedings of the IEEE VLSI Design 2007 conference_, pp. 638-643, Jan 2007. ***VLSID'07***
 
-**K.R.Viveka**, Ramgopal S, Praveen N, Rajanna K and Nayak M.M "[Pressure Sensor Based Tsunami Detection System: A Laboratory Study](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4178886)", _Proceedings of IEEE sensors 2006 conference_, pp. 1392-1394, Oct. 2006. ***SENSORS'06***
+* **K.R.Viveka**, Ramgopal S, Praveen N, Rajanna K and Nayak M.M "[Pressure Sensor Based Tsunami Detection System: A Laboratory Study](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4178886)", _Proceedings of IEEE sensors 2006 conference_, pp. 1392-1394, Oct. 2006. ***SENSORS'06***
 
 \* equal contribution
 
