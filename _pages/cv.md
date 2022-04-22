@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
+<hr/>
 * Ph.D. Electrical and Communication Engineering, Indian Institute of Science, Bangalore, 2015
 * M.Tech. Department of Electronic Systems Engineering (formerly CEDT), Indian Institute of Science, Bangalore, 2007
 * B.E. Electronics and Communication Engineering, M S Ramaiah Institute of Technology, Bangalore, India, 2005
 
 Post-doctoral Experience
 ======
+<hr/>
 * 2021-present: National University of Singapore (NUS), Research Fellow
   * DDPM for AI: Implementation and testing of Dyadic Digital Pulse Modulation based high efficiency computing for ML applications in 40nm CMOS
   * Side-Channel attack detection: Concept to silicon of side-channel attack detection using spectral analysis in 28nm CMOS
