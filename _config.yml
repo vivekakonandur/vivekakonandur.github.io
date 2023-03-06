@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "(Under Development)"
+title                    : "K R Viveka"
 title_separator          : "-"
 name                     : &name "Viveka Konandur"
-description              : &description "Research Fellow at National University of Singapore (NUS)"
+description              : &description "Assistant Professor at Indian Institute of Science (IISc)"
 url                      : https://vivekakonandur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vivekakonandur.github.io"
